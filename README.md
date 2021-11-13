@@ -1,2 +1,5 @@
-# Transfer-Learning-for-GoogleNet-with-pytorch
-Using GoogleNet model and Transfer Learning by CNN Extractor with pytorch
+# **Transfer-Learning-for-GoogleNet-with-pytorch**
+
+* Develope Environment : **Google Colaborate**
+
+* Data : [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)
